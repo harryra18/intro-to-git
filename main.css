@@ -1,3 +1,26 @@
-h1 {color: blue;
-background-color: burlywood;
+body {
+background-color: #FFF3EB;
+font-style: "Trebuchet MS", sans-serif;
+text-align: center;
 }
+img {
+  width: 400px;
+  height: auto;
+}
+section {
+  border: 2px solid black;
+  padding: 0px 10px 20px 10px
+}
+#header {
+  margin-bottom: 20px;
+}
+button {
+  background-color: #A54800;
+  color: #FFF3EB;
+}
+
+
+
+
+
+
